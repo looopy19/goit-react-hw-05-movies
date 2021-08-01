@@ -1,0 +1,29 @@
+.form {
+  text-align: center;
+  margin: 20px auto;
+}
+
+.input {
+  padding: 8px 50px;
+  margin-right: 10px;
+  border-radius: 5px;
+  border: 1px solid #f3ca20;
+  background: black;
+  color: white;
+
+}
+
+.button {
+  padding: 8px 20px;
+  border-radius: 5px;
+  border: 1px solid #f3ca20;
+  background: transparent;
+  color: white;
+  
+}
+
+.button:hover {
+  color: black;
+  background: #f3ca20;
+  cursor: pointer;
+}
